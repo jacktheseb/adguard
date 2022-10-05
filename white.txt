@@ -1,0 +1,5 @@
+#Whitelist for Youtube View History
+@@||s.YouTube.com^
+
+#Whitelist for RTL+
+@@||ad-ipd.sxp.smartclip.net^
