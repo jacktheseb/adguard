@@ -3,4 +3,4 @@
 
 #Whitelist for RTL+
 @@||ad-ipd.sxp.smartclip.net^
-@@||schmalzbauer.work^$important
+@@||schmalzbauer.work^
