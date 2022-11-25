@@ -4,3 +4,6 @@
 #Whitelist for RTL+
 @@||ad-ipd.sxp.smartclip.net^
 @@||schmalzbauer.work^
+@@||app-measurement.com^
+@@||dscx.akamaiedge.net^
+@@||apple.com^
