@@ -9,6 +9,5 @@
 @@||dscx.akamaiedge.net^
 @@||apple.com^
 @@||publitas.com^$important
-@@||www.youtube.com^$important
 @@||cs.co^$important
 @@||shopify.com^$important
