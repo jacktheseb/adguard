@@ -4,10 +4,24 @@
 #Whitelist for RTL+
 @@||ad-ipd.sxp.smartclip.net^
 
+#Whitelist fpr waipu.tv
+@@||wpstr.tv^
+
+#Whitelist for Cisco
+@@||cs.co^
+
+#Whitelist for Apple
+@@||apple.com^
+
+#Whitelist for own Domains
+@@||publitas.com^
+
+#Whitelist for Metro App
 @@||schmalzbauer.work^
+
+#Whitelist for Shopify
+@@||shopify.com^
+
+#Unsorted
 @@||app-measurement.com^
 @@||dscx.akamaiedge.net^
-@@||apple.com^
-@@||publitas.com^$important
-@@||cs.co^$important
-@@||shopify.com^$important
