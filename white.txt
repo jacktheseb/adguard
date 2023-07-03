@@ -3,6 +3,7 @@
 
 #Whitelist for RTL+
 @@||ad-ipd.sxp.smartclip.net^
+@@||stats.sxp.smartclip.net^
 
 #Whitelist fpr waipu.tv
 @@||wpstr.tv^
@@ -14,13 +15,28 @@
 @@||apple.com^
 
 #Whitelist for own Domains
-@@||publitas.com^
+@@||schmalzbauer.work^
 
 #Whitelist for Metro App
-@@||schmalzbauer.work^
+@@||publitas.com^
 
 #Whitelist for Shopify
 @@||shopify.com^
+
+#Whitelist for Wetter.com
+@@||asapi.wetter.com
+
+#Whitelist Work
+@@||risnet.de^
+
+#Whitelist HACS
+@@||hacs.xyz^
+
+#Whitelist for Amazon
+@@||aax-eu.amazon.de^
+
+#Whitelist Websites
+@@||hundeschule-realation.de^
 
 #Unsorted
 @@||app-measurement.com^
