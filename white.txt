@@ -37,6 +37,7 @@
 
 #Whitelist Websites
 @@||hundeschule-realation.de^
+@@||jimdosite.com^
 
 #Unsorted
 @@||app-measurement.com^
