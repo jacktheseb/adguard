@@ -1,0 +1,2 @@
+||pi-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;A;10.110.0.253
+||evcc-haderschen.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
