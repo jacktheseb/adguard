@@ -1,2 +1,16 @@
 ||pi-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;A;10.110.0.253
+||pi-haderschen.schmalzbauer.work^$dnsrewrite=NOERROR;A;10.10.10.253
+||adguard-haderschen.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-haderschen.schmalzbauer.work
+||adguard-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||dnsmasq.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
 ||evcc-haderschen.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||evcc-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||grafana-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||homeassistant.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||influx-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||portainer-haderschen.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-haderschen.schmalzbauer.work
+||portainer-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||proxy-haderschen.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-haderschen.schmalzbauer.work
+||proxy-hamm.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;pi-hamm.schmalzbauer.work
+||server.schmalzbauer.work^$dnsrewrite=NOERROR;CNAME;10.10.10.250
+
